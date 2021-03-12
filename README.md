@@ -1,111 +1,111 @@
 # algoPractice
 
-I plan to solve <a target="_blank" href="https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU">the following leetcode problem</a> over the next month and a half
+I plan to solve [the following leetcode problem](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) over the next month and a half.
 
-_taken from an <a target="_blank" href="https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU">article</a> authored by techlead_
+_taken from an [article](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) authored by techlead_
 
 ### Array
 
-- [ ] <a target="_blank" href="https://leetcode.com/problems/two-sum/">Two Sum</a>
-- [ ] <a target="_blank" href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock/">Best Time to Buy and Sell Stock</a>
-- [ ] <a target="_blank" href="https://leetcode.com/problems/contains-duplicate/">Contains Duplicate</a>
-- [ ] <a target="_blank" href="https://leetcode.com/problems/product-of-array-except-self/">Product of Array Except Self</a>
-- [ ] <a target="_blank" href="https://leetcode.com/problems/maximum-subarray/">Maximum Subarray</a>
-- [ ] <a target="_blank" href="https://leetcode.com/problems/maximum-product-subarray/">Maximum Product Subarray</a>
-- [ ] <a target="_blank" href="https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/">Find Minimum in Rotated Sorted Array</a>
-- [ ] <a target="_blank" href="https://leetcode.com/problems/search-in-rotated-sorted-array/">Search in Rotated Sorted Array</a>
-- [ ] <a target="_blank" href="https://leetcode.com/problems/3sum/">3Sum</a>
-- [ ] <a target="_blank" href="https://leetcode.com/problems/container-with-most-water/">Container With Most Water</a>
+- [ ] [Two Sum](https://leetcode.com/problems/two-sum/){:target="_blank"}
+- [ ] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/){:target="_blank"}
+- [ ] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/){:target="_blank"}
+- [ ] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/){:target="_blank"}
+- [ ] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/){:target="_blank"}
+- [ ] [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/){:target="_blank"}
+- [ ] [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/){:target="_blank"}
+- [ ] [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/){:target="_blank"}
+- [ ] [3Sum](https://leetcode.com/problems/3sum/){:target="_blank"}
+- [ ] [Container With Most Water](https://leetcode.com/problems/container-with-most-water/){:target="_blank"}
 
 ### Binary
 
-- [ ] <a target="_blank" href="https://leetcode.com/problems/sum-of-two-integers/">Sum of Two Integers</a>
-- [ ] <a target="_blank" href="https://leetcode.com/problems/number-of-1-bits/">Number of 1 Bits</a>
-- [ ] <a target="_blank" href="https://leetcode.com/problems/counting-bits/">Counting Bits</a>
-- [ ] <a target="_blank" href="https://leetcode.com/problems/missing-number/">Missing Number</a>
-- [ ] <a target="_blank" href="https://leetcode.com/problems/reverse-bits/">Reverse Bits</a>
+- [ ] [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/){:target="_blank"}
+- [ ] [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/){:target="_blank"}
+- [ ] [Counting Bits](https://leetcode.com/problems/counting-bits/){:target="_blank"}
+- [ ] [Missing Number](https://leetcode.com/problems/missing-number/){:target="_blank"}
+- [ ] [Reverse Bits](https://leetcode.com/problems/reverse-bits/){:target="_blank"}
 
 ### Dynamic Programming
 
-- [ ] <a target="_blank" href="https://leetcode.com/problems/climbing-stairs/">Climbing Stairs</a>
-- [ ] <a target="_blank" href="https://leetcode.com/problems/coin-change/">Coin Change</a>
-- [ ] <a target="_blank" href="https://leetcode.com/problems/longest-increasing-subsequence/">Longest Increasing Subsequence</a>
+- [ ] [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/){:target="_blank"}
+- [ ] [Coin Change](https://leetcode.com/problems/coin-change/){:target="_blank"}
+- [ ] [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/){:target="_blank"}
 - [ ] Longest Common Subsequence
-- [ ] <a target="_blank" href="https://leetcode.com/problems/word-break/">Word Break Problem</a>
-- [ ] <a target="_blank" href="https://leetcode.com/problems/combination-sum-iv/">Combination Sum</a>
-- [ ] <a target="_blank" href="https://leetcode.com/problems/house-robber/">House Robber</a>
-- [ ] <a target="_blank" href="https://leetcode.com/problems/house-robber-ii/">House Robber II</a>
-- [ ] <a target="_blank" href="https://leetcode.com/problems/decode-ways/">Decode Ways</a>
-- [ ] <a target="_blank" href="https://leetcode.com/problems/unique-paths/">Unique Paths</a>
-- [ ] <a target="_blank" href="https://leetcode.com/problems/jump-game/">Jump Game</a>
+- [ ] [Word Break Problem](https://leetcode.com/problems/word-break/){:target="_blank"}
+- [ ] [Combination Sum](https://leetcode.com/problems/combination-sum-iv/){:target="_blank"}
+- [ ] [House Robber](https://leetcode.com/problems/house-robber/){:target="_blank"}
+- [ ] [House Robber II](https://leetcode.com/problems/house-robber-ii/){:target="_blank"}
+- [ ] [Decode Ways](https://leetcode.com/problems/decode-ways/){:target="_blank"}
+- [ ] [Unique Paths](https://leetcode.com/problems/unique-paths/){:target="_blank"}
+- [ ] [Jump Game](https://leetcode.com/problems/jump-game/){:target="_blank"}
 
 ### Graph
 
-- [ ] <a target="_blank" href="https://leetcode.com/problems/clone-graph/">Clone Graph</a>
-- [ ] <a target="_blank" href="https://leetcode.com/problems/course-schedule/">Course Schedule</a>
-- [ ] <a target="_blank" href="https://leetcode.com/problems/pacific-atlantic-water-flow/">Pacific Atlantic Water Flow</a>
-- [ ] <a target="_blank" href="https://leetcode.com/problems/number-of-islands/">Number of Islands</a>
-- [ ] <a target="_blank" href="https://leetcode.com/problems/longest-consecutive-sequence/">Longest Consecutive Sequence</a>
-- [ ] <a target="_blank" href="https://leetcode.com/problems/alien-dictionary/">Alien Dictionary (Leetcode Premium)</a>
-- [ ] <a target="_blank" href="https://leetcode.com/problems/graph-valid-tree/">Graph Valid Tree (Leetcode Premium)</a>
-- [ ] <a target="_blank" href="https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/">Number of Connected Components in an Undirected Graph (Leetcode Premium)</a>
+- [ ] [Clone Graph](https://leetcode.com/problems/clone-graph/){:target="_blank"}
+- [ ] [Course Schedule](https://leetcode.com/problems/course-schedule/){:target="_blank"}
+- [ ] [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/){:target="_blank"}
+- [ ] [Number of Islands](https://leetcode.com/problems/number-of-islands/){:target="_blank"}
+- [ ] [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/){:target="_blank"}
+- [ ] [Alien Dictionary (Leetcode Premium)](https://leetcode.com/problems/alien-dictionary/){:target="_blank"}
+- [ ] [Graph Valid Tree (Leetcode Premium)](https://leetcode.com/problems/graph-valid-tree/){:target="_blank"}
+- [ ] [Number of Connected Components in an Undirected Graph (Leetcode Premium)](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/){:target="_blank"}
 
 ### Interval
 
-- [ ] <a target="_blank" href="https://leetcode.com/problems/insert-interval/">Insert Interval</a>
-- [ ] <a target="_blank" href="https://leetcode.com/problems/merge-intervals/">Merge Intervals</a>
-- [ ] <a target="_blank" href="https://leetcode.com/problems/non-overlapping-intervals/">Non-overlapping Intervals</a>
-- [ ] <a target="_blank" href="https://leetcode.com/problems/meeting-rooms/">Meeting Rooms (Leetcode Premium)</a>
-- [ ] <a target="_blank" href="https://leetcode.com/problems/meeting-rooms-ii/">Meeting Rooms II (Leetcode Premium)</a>
+- [ ] [Insert Interval](https://leetcode.com/problems/insert-interval/){:target="_blank"}
+- [ ] [Merge Intervals](https://leetcode.com/problems/merge-intervals/){:target="_blank"}
+- [ ] [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/){:target="_blank"}
+- [ ] [Meeting Rooms (Leetcode Premium)](https://leetcode.com/problems/meeting-rooms/){:target="_blank"}
+- [ ] [Meeting Rooms II (Leetcode Premium)](https://leetcode.com/problems/meeting-rooms-ii/){:target="_blank"}
 
 ### Linked List
 
-- [ ] <a target="_blank" href="https://leetcode.com/problems/reverse-linked-list/">Reverse a Linked List</a>
-- [ ] <a target="_blank" href="https://leetcode.com/problems/linked-list-cycle/">Detect Cycle in a Linked List</a>
-- [ ] <a target="_blank" href="https://leetcode.com/problems/merge-two-sorted-lists/">Merge Two Sorted Lists</a>
-- [ ] <a target="_blank" href="https://leetcode.com/problems/merge-k-sorted-lists/">Merge K Sorted Lists</a>
-- [ ] <a target="_blank" href="https://leetcode.com/problems/)remove-nth-node-from-end-of-list">Remove Nth Node From End Of List</a>
-- [ ] <a target="_blank" href="https://leetcode.com/problems/reorder-list/">Reorder List</a>
+- [ ] [Reverse a Linked List](https://leetcode.com/problems/reverse-linked-list/){:target="_blank"}
+- [ ] [Detect Cycle in a Linked List](https://leetcode.com/problems/linked-list-cycle/){:target="_blank"}
+- [ ] [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/){:target="_blank"}
+- [ ] [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/){:target="_blank"}
+- [ ] [Remove Nth Node From End Of List](https://leetcode.com/problems/)remove-nth-node-from-end-of-list/{:target="_blank"}
+- [ ] [Reorder List](https://leetcode.com/problems/reorder-list/){:target="_blank"}
 
 ### Matrix
 
-- [ ] <a target="_blank" href="https://leetcode.com/problems/set-matrix-zeroes/">Set Matrix Zeroes</a>
-- [ ] <a target="_blank" href="https://leetcode.com/problems/spiral-matrix/">Spiral Matrix</a>
-- [ ] <a target="_blank" href="https://leetcode.com/problems/rotate-image/">Rotate Image</a>
-- [ ] <a target="_blank" href="https://leetcode.com/problems/word-search/">Word Search</a>
+- [ ] [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/){:target="_blank"}
+- [ ] [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/){:target="_blank"}
+- [ ] [Rotate Image](https://leetcode.com/problems/rotate-image/){:target="_blank"}
+- [ ] [Word Search](https://leetcode.com/problems/word-search/){:target="_blank"}
 
 ### String
 
-- [ ] <a target="_blank" href="https://leetcode.com/problems/longest-substring-without-repeating-characters/">Longest Substring Without Repeating Characters</a>
-- [ ] <a target="_blank" href="https://leetcode.com/problems/longest-repeating-character-replacement/">Longest Repeating Character Replacement</a>
-- [ ] <a target="_blank" href="https://leetcode.com/problems/minimum-window-substring/">Minimum Window Substring</a>
-- [ ] <a target="_blank" href="https://leetcode.com/problems/valid-anagram/">Valid Anagram</a>
-- [ ] <a target="_blank" href="https://leetcode.com/problems/group-anagrams/">Group Anagrams</a>
-- [ ] <a target="_blank" href="https://leetcode.com/problems/valid-parentheses/">Valid Parentheses</a>
-- [ ] <a target="_blank" href="https://leetcode.com/problems/valid-palindrome/">Valid Palindrome</a>
-- [ ] <a target="_blank" href="https://leetcode.com/problems/longest-palindromic-substring/">Longest Palindromic Substring</a>
-- [ ] <a target="_blank" href="https://leetcode.com/problems/palindromic-substrings/">Palindromic Substrings</a>
-- [ ] <a target="_blank" href="https://leetcode.com/problems/encode-and-decode-strings/">Encode and Decode Strings (Leetcode Premium)</a>
+- [ ] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/){:target="_blank"}
+- [ ] [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/){:target="_blank"}
+- [ ] [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/){:target="_blank"}
+- [ ] [Valid Anagram](https://leetcode.com/problems/valid-anagram/){:target="_blank"}
+- [ ] [Group Anagrams](https://leetcode.com/problems/group-anagrams/){:target="_blank"}
+- [ ] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/){:target="_blank"}
+- [ ] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/){:target="_blank"}
+- [ ] [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/){:target="_blank"}
+- [ ] [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/){:target="_blank"}
+- [ ] [Encode and Decode Strings (Leetcode Premium)](https://leetcode.com/problems/encode-and-decode-strings/){:target="_blank"}
 
 ### Tree
 
-- [ ] <a target="_blank" href="https://leetcode.com/problems/maximum-depth-of-binary-tree/">Maximum Depth of Binary Tree</a>
-- [ ] <a target="_blank" href="https://leetcode.com/problems/same-tree/">Same Tree</a>
-- [ ] <a target="_blank" href="https://leetcode.com/problems/invert-binary-tree/">Invert/Flip Binary Tree</a>
-- [ ] <a target="_blank" href="https://leetcode.com/problems/binary-tree-maximum-path-sum/">Binary Tree Maximum Path Sum</a>
-- [ ] <a target="_blank" href="https://leetcode.com/problems/binary-tree-level-order-traversal/">Binary Tree Level Order Traversal</a>
-- [ ] <a target="_blank" href="https://leetcode.com/problems/serialize-and-deserialize-binary-tree/">Serialize and Deserialize Binary Tree</a>
-- [ ] <a target="_blank" href="https://leetcode.com/problems/subtree-of-another-tree/">Subtree of Another Tree</a>
-- [ ] <a target="_blank" href="https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/">Construct Binary Tree from Preorder and Inorder Traversal</a>
-- [ ] <a target="_blank" href="https://leetcode.com/problems/validate-binary-search-tree/">Validate Binary Search Tree</a>
-- [ ] <a target="_blank" href="https://leetcode.com/problems/kth-smallest-element-in-a-bst/">Kth Smallest Element in a BST</a>
-- [ ] <a target="_blank" href="https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/">Lowest Common Ancestor of BST</a>
-- [ ] <a target="_blank" href="https://leetcode.com/problems/implement-trie-prefix-tree/">Implement Trie (Prefix Tree)</a>
-- [ ] <a target="_blank" href="https://leetcode.com/problems/add-and-search-word-data-structure-design/">Add and Search Word</a>
-- [ ] <a target="_blank" href="https://leetcode.com/problems/word-search-ii/">Word Search II</a>
+- [ ] [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/){:target="_blank"}
+- [ ] [Same Tree](https://leetcode.com/problems/same-tree/){:target="_blank"}
+- [ ] [Invert/Flip Binary Tree](https://leetcode.com/problems/invert-binary-tree/){:target="_blank"}
+- [ ] [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/){:target="_blank"}
+- [ ] [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/){:target="_blank"}
+- [ ] [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/){:target="_blank"}
+- [ ] [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/){:target="_blank"}
+- [ ] [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/){:target="_blank"}
+- [ ] [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/){:target="_blank"}
+- [ ] [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/){:target="_blank"}
+- [ ] [Lowest Common Ancestor of BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/){:target="_blank"}
+- [ ] [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/){:target="_blank"}
+- [ ] [Add and Search Word](https://leetcode.com/problems/add-and-search-word-data-structure-design/){:target="_blank"}
+- [ ] [Word Search II](https://leetcode.com/problems/word-search-ii/){:target="_blank"}
 
 ### Heap
 
-- [ ] <a target="_blank" href="https://leetcode.com/problems/merge-k-sorted-lists/">Merge K Sorted Lists</a>
-- [ ] <a target="_blank" href="https://leetcode.com/problems/top-k-frequent-elements/">Top K Frequent Elements</a>
-- [ ] <a target="_blank" href="https://leetcode.com/problems/find-median-from-data-stream/">Find Median from Data Stream</a>
+- [ ] [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/){:target="_blank"}
+- [ ] [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/){:target="_blank"}
+- [ ] [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/){:target="_blank"}
