@@ -6,7 +6,7 @@ _taken from an <a target="_blank" href="https://www.teamblind.com/post/New-Year-
 
 ### Array
 
-- [ ] <a target="_blank" href="https://leetcode.com/problems/two-sum/">Two Sum</a>
+- [ ] <a href="https://leetcode.com/problems/two-sum/" target="_blank">Two Sum</a>
 - [ ] <a target="_blank" href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock/">Best Time to Buy and Sell Stock</a>
 - [ ] <a target="_blank" href="https://leetcode.com/problems/contains-duplicate/">Contains Duplicate</a>
 - [ ] <a target="_blank" href="https://leetcode.com/problems/product-of-array-except-self/">Product of Array Except Self</a>
